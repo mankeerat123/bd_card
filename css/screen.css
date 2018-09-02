@@ -126,19 +126,19 @@ header p {
 /* Site Navigation */
 .site-nav {
 	margin-top: 20px;
-	margin-left:4%;
+	margin-left:0%;
 	text-align: center;
 }
 
 .site-nav ul {
-	margin: 0;
+	margin-left: 0;
 	padding: 0;
 }
 
 .site-nav li {
 	list-style: none;
 	float: left;
-	margin-right: 2px;
+	margin-right: 0px;
 }
 
 .site-nav a {
@@ -159,7 +159,7 @@ header p {
 	
 	.site-nav li {
 		width: 33.332%;
-		margin-left: 2px;
+		margin-left: 2.5px;
 	}
 	
 	.site-nav a {
@@ -192,7 +192,7 @@ color:#171F72;}
 	background-color: #EB5229 ;
 	padding-bottom: 40px;
 	padding-top: 40px;
-	margin-left: 2%;
+	margin-left: 2.5%;
 
 }
 
@@ -207,7 +207,7 @@ color:#171F72;}
 	float: left;
 	padding-right: 40px;
 	box-sizing: border-box;
-	margin-left: 2%;
+	margin-left: 2.5%;
 }
 
 .sidebar {
@@ -515,7 +515,7 @@ html.cssanimations .box-a {
 
 /* Grid */
 .row {
-	margin-right: -20px;
+	margin-right: 0px;
 }
 
 .col {
