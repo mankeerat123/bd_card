@@ -9,7 +9,7 @@
 	font-weight: normal;
 	font-style: normal;
 }
-#i{font-size: 250%; text-align:center;}
+#i{font-size: 250%;margin-left:10%;}
 @font-face {
 	font-family: 'PTSans';
 	src: url('fonts/PT-Sans-Bold.eot');
