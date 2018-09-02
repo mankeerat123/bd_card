@@ -126,7 +126,7 @@ header p {
 /* Site Navigation */
 .site-nav {
 	margin-top: 20px;
-	margin-left:23%;
+	margin-left:4%;
 	text-align: center;
 }
 
@@ -192,7 +192,7 @@ color:#171F72;}
 	background-color: #EB5229 ;
 	padding-bottom: 40px;
 	padding-top: 40px;
-	margin-left: 24%;
+	margin-left: 4%;
 
 }
 
@@ -207,7 +207,7 @@ color:#171F72;}
 	float: left;
 	padding-right: 40px;
 	box-sizing: border-box;
-	margin-left: 20%;
+	margin-left: 3%;
 }
 
 .sidebar {
