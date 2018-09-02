@@ -165,7 +165,7 @@ header p {
 	
 	.site-nav a {
 		padding: 15px 0;
-		margin-right: 5px;
+		margin-left:30%;
 		margin-bottom: 5px;
 		text-align: center;
 	}
@@ -175,6 +175,7 @@ header p {
 @media screen and (max-width: 767px) {
 	
 	.site-nav li {
+		margin-left:30%;
 		width: 50%;
 	}
 	
