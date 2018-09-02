@@ -132,7 +132,7 @@ header p {
 }
 
 .site-nav ul {
-	margin-left: 20px;
+	margin-left: 15px;
 	padding: 0;
 }
 
@@ -175,7 +175,7 @@ header p {
 @media screen and (max-width: 767px) {
 	
 	.site-nav li {
-		margin-left:17%;
+		margin-left:14%;
 		width: 50%;
 	}
 	
