@@ -596,9 +596,17 @@ html.cssanimations .box-a {
 }
 
 @media screen and (max-width: 1023px) {
-	.push-down-sm {
-		margin-bottom: 30px;
-	}
+	.col-lg-11 {width: 91.662%}
+	.col-lg-10 {width: 83.332%;}
+	.col-lg-9 {width: 75%;}
+	.col-lg-8 {width: 66.662%;}
+	.col-lg-7 {width: 58.331%}
+	.col-lg-6 {width: 50%;}
+	.col-lg-5 {width: 41.662%}
+	.col-lg-4 {width: 33.332%;}
+	.col-lg-3 {width: 25%;}
+	.col-lg-2 {width: 16.662%;}
+	.col-lg-1 {width: 8.332%;}
 }
 
 @media screen and (max-width: 767px) {
