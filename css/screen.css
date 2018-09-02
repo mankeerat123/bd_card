@@ -126,12 +126,12 @@ header p {
 /* Site Navigation */
 .site-nav {
 	margin-top: 20px;
-	margin-left:18%;
+	margin-left:30%;
 	text-align: center;
 }
 
 .site-nav ul {
-	margin-left: 25px;
+	margin-left: 40px;
 	padding: 0;
 }
 
@@ -192,7 +192,7 @@ color:#171F72;}
 	background-color: #EB5229 ;
 	padding-bottom: 40px;
 	padding-top: 40px;
-	margin-left: 2.5%;
+	margin-left: 3%;
 
 }
 
